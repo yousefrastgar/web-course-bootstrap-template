@@ -1,0 +1,48 @@
+:root {
+	--gradienttoleft: linear-gradient(to left, var(--pink), var(--orange));
+	--gradienttogray: linear-gradient(to bottom, var(--white), var(--lightgray));
+	--gradienttoleftopac: linear-gradient(to left, rgba(240, 101, 158, 0.7), rgba(244, 131, 108, 0.7));
+	--gradienttoup: linear-gradient(to top, rgba(240, 101, 158, 0.7), rgba(244, 131, 108, 0.7));
+	--gradientblueblack: linear-gradient(to top, var(--black), var(--blue));
+	--gradienttoright: linear-gradient(to left, var(--orange), var(--pink));
+
+	--black: #000000;
+	--blackoverlay: rgba(0, 0, 0, 0.3);
+	--blackoverlaytwo: rgba(0, 0, 0, 0.6);
+	--blackgradienttoup: linear-gradient(to top, rgba(0, 0, 0, 0.7), 50%, rgba(0, 0, 0, 0));
+
+	--white: #ffffff;
+	--darkwhite: #f7f7f7;
+	--halfopacwhite: rgba(255, 255, 255, 0.5);
+	--twentypercentopacwhite: rgba(255, 255, 255, 0.2);
+	--whiteoverlay: rgba(255, 255, 255, 0.3);
+	--whitegradienttoup: linear-gradient(to top, rgba(255, 255, 255, 1), 30%, rgba(0, 0, 0, 0));
+
+	--gray: #9e9e9e;
+	--darkgray: rgba(107, 114, 128, 1);
+	--lightgray: #eaeaea;
+
+	--yellow: #ffc107;
+	--green: #76b947;
+
+	--pink: #e91e63;
+	--logopink: #d80067;
+	--gradientpink: #f0659e;
+
+	--orange: #f4836c;
+
+	--blue: #2196f3;
+	--lightblue: #40c4ff;
+	--darkblue: #64b0cc;
+	--navyblue: #141444;
+
+	--purple: #631463;
+	--halfpurple: rgba(99, 20, 99, 0.7);
+	--lightpurple: #968ae9;
+	--logopurple: #2a254c;
+	--purplegradienttoup: linear-gradient(to top, rgba(77, 0, 77, 0.9), 50%, rgba(0, 0, 0, 0));
+
+	--red: rgba(220, 38, 38, 1);
+
+	--plyr-color-main: var(--pink);
+}
